@@ -1,4 +1,4 @@
-# Excel Data Analysis Project – Superstore Sales Performance Dashboard
+# Excel Data Analysis Project 
 # Superstore Sales Dashboard
 
 ## Project Overview
